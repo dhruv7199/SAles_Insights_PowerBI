@@ -1,4 +1,4 @@
-# SAles_Insights_PowerBI_Data_Analysis_Project
+# Ssles_Insights_PowerBI_Data_Analysis_Project
 
 ## Not able to put Visualization on the PowwerBi.com due to the lack of Work_account so including a Pdf Document of the visualization:-
 
